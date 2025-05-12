@@ -20,4 +20,13 @@ Website ini dibuat sebagai proyek UTS mata kuliah **Pemrograman Web Lanjut**. Ap
   - Hapus pengaduan (oleh admin)
 - Dashboard terpisah untuk user dan admin
 - Desain responsif (mobile-friendly)
-  
+---
+
+👨‍💻 Pengembang
+Nama: [Ajeng Puspitaloka]
+
+NIM: [202231043]
+
+Kelas: [Pemrograman Web Lanjut - A]
+
+
